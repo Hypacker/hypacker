@@ -5,7 +5,7 @@
 🎓 I am Aarav M, a **Front End Web Developer** (specializing in **React and HTML Applications**).
 
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Spanish**, **sketching**, and **touch typing** to some whacky ones like **writing with my right hand**.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Spanish** and **touch typing** to some whacky ones like **writing with my right hand**.
 
 
 ✈️ I love **Airplanes** too. I have been on the mighty **A380** as well as the **Boeing 747**
