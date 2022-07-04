@@ -50,27 +50,21 @@
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tapajyoti-bose.medium.com/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tapajyotib/)
-
--->
-
-
-
-<br><br><br>
+ -->
 
 
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hypacker&label=Profile%20views&color=00f63f&style=flat" alt="hypacker" /> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **Contact@hypackel.com**
-
-- ⚡ Fun fact **I like planes**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hypacker&label=Profile%20views&color=c3d5ff&style=for-the-badge" alt="hypacker" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+
+![Codepen](https://img.shields.io/badge/CodePen-212121?style=for-the-badge&logo=CodePen&logoColor=white)
+![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
+
+
 <p align="left">
 <a href="https://codepen.io/hypackel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hypackel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/hypackel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hypackel" height="30" width="40" /></a>
