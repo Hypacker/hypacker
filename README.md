@@ -64,8 +64,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
+[![CodePen](https://img.shields.io/badge/CodePen-212121?style=for-the-badge&logo=CodePen&logoColor=white)](https://www.CodePen.io/Hypackel/)
 
-![Codepen](https://img.shields.io/badge/CodePen-212121?style=for-the-badge&logo=CodePen&logoColor=white)
+![Codepen]()
 ![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 
