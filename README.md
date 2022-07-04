@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm Aarav M</h1>
 
 ## 🚀 About Me
 
@@ -60,12 +60,9 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Aarav M</h1>
-<h3 align="center">I am a passionate frontend developer and I like php.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypacker&label=Profile%20views&color=00f63f&style=flat" alt="hypacker" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hypacker" alt="hypacker" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
