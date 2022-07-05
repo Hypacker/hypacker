@@ -71,7 +71,7 @@
  <a href="https://google.com/?q=Email is Contact@Hypackel.com">![Email](https://img.shields.io/badge/Email-323330?style=for-the-badge&logo=Gmail&logoColor=white)</a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hypacker&hide_border=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="hypacker" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hypacker&hide_border=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="hypacker" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hypacker&hide_border=true&show_icons=true&theme=dark&locale=en" alt="hypacker" /></p>
 
